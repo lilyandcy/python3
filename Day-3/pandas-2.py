@@ -12,3 +12,6 @@ df['names'] = pd.DataFrame(['Dan', 'Cox', 'Ale', 'Bob'], index= ['d', 'c', 'b', 
 df = df.append(pd.DataFrame({'Numbers':66, 'floats':5.5, 'names':'Yor'}, index=['y',]))
 
 print(df)
+
+
+

@@ -12,3 +12,6 @@ ax = np.reshape(a, (5, 1))
 bx = np.reshape(b, (1, 5))
 c = np.dot(ax, bx)
 print(c)
+
+l = ["", "", "abc"]
+print (l.count(""))
