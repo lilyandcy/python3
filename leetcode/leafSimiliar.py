@@ -31,4 +31,3 @@ class Solution:
             if root.right!= None:
                 res.extend(self.getLeafList(root.right))
         return res
-        
