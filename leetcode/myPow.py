@@ -6,4 +6,3 @@ class Solution:
         :rtype: float
         """
         return x ** n
-        
