@@ -10,4 +10,3 @@ class Solution:
             if judge[j][0] == 0 and judge[j][1] == N-1:
                 return j+1
         return -1
-    # pre-check-in
